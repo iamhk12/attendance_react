@@ -1,7 +1,9 @@
 
-# Attendance App - Assessment
+# Attendance App - ReactJS
 
 A react app that can be used to take attendance of students in a class through hooks.
+Disc: This is an assessment test provided by Latracal Solutions Pvt. Ltd. 
+
 
 
 
